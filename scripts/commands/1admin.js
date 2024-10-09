@@ -19,9 +19,9 @@ module.exports.run = async function({ api,event,args,client,Users,Threads,__GLOB
 const axios = global.nodemodule["axios"];
 const request = global.nodemodule["request"];
 const fs = global.nodemodule["fs-extra"];
-var link =["https://postimg.cc/bsVCR7Hy", 
+var link =["https://postimg.cc/0rQ7CbtS", 
             
-            "https://postimg.cc/bsVCR7Hy", 
+            "https://postimg.cc/0rQ7CbtS", 
             
 "https://postimg.cc/0rQ7CbtS",
             
