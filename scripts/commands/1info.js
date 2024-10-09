@@ -26,13 +26,13 @@ const time = process.uptime(),
 		seconds = Math.floor(time % 60);
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【hh:mm:ss】");
-var link = ["https://postimg.cc/V5k3FShb", 
+var link = ["https://postimg.cc/947n0L9W", 
             
-            "https://i.postimg.cc/vBv1hR1w/IMG-20241009-113436.jpg", 
+            "https://postimg.cc/947n0L9W", 
             
-            "https://postimg.cc/LYHGwh6w",
+            "https://postimg.cc/bsVCR7Hy",
 
-"https://i.postimg.cc/Zq1M2sWH/IMG-20241009-112728.jpg",
+"https://postimg.cc/bsVCR7Hy",
             
             ""];
   
